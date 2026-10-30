@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/masakane",
  "yomi": "ちゅうなごんまさかねきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "源雅兼（1079〜1143）",
+  "desc": "中納言源雅兼の家集。花や落花などの題詠を中心に、堀河院を偲ぶ歌や出家後の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -909,6 +914,6 @@
   "poems": 77,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
